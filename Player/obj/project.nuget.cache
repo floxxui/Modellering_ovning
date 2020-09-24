@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZAz98PTqMesAaIV9+I1OxQW/0XQK3gLkBY91wn1kpE3HBv24TwkM7f2+0vOtqp3bUjwg27bubyKleQuX5zL0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sofia.sorensen\\Documents\\Webbutveckling\\VS code\\Programmering 2\\Modellering_övning\\Player\\Player.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sofia.sorensen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sofia.sorensen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

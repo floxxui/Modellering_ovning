@@ -6,7 +6,12 @@ namespace Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Player p1 = new Player();
+
+            p1.x = 2;
+            p1.y = 0;
+            
+
         }
     }
 }
